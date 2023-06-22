@@ -1,0 +1,14 @@
+Pillow
+moviepy
+PyMuPDF
+urllib3
+player
+happytransformer
+textblob
+internetdownloadmanager
+requests
+PySide6
+PySide2
+pendulum
+ftfy
+pgeocode
